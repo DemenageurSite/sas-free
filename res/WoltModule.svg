@@ -21,15 +21,14 @@
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4949"
        osb:paint="gradient">
       <stop
-         style="stop-color:#191919;stop-opacity:1"
+         style="stop-color:#0f0f0f;stop-opacity:1"
          offset="0"
          id="stop4945" />
       <stop
-         style="stop-color:#2d2d2d;stop-opacity:1"
+         style="stop-color:#232323;stop-opacity:1"
          offset="1"
          id="stop4947" />
     </linearGradient>
@@ -71,9 +70,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="515.62814"
-     inkscape:cy="270.19439"
+     inkscape:zoom="1.979899"
+     inkscape:cx="199.78955"
+     inkscape:cy="162.08521"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -99,7 +98,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +117,7 @@
        aria-label=".:sas:."
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="text4959"
-       transform="matrix(0.4782969,0,0,0.4782969,10.669096,71.603225)">
+       transform="matrix(0.4782969,0,0,0.4782969,10.535461,71.603225)">
       <path
          d="M 8.0879201,115.54977 H 6.9872535 v 1.10067 h 1.1006666 z"
          style="fill:#b3b3b3;stroke-width:0.26458332"
