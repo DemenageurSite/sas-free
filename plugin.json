@@ -1,0 +1,25 @@
+{
+  "slug": "SAS",
+  "name": "SAS",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "SAS",
+  "author": "SAS",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "WoltModule",
+      "name": "WoltModule",
+      "description": "Needle voltmeter, suitable for FLO and constant voltage",
+      "tags": [
+        "utility"
+      ]
+    }
+  ]
+}
